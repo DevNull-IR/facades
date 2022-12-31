@@ -1,0 +1,26 @@
+{
+  "name": "devnull-ir/facades",
+  "description": "Laravel Facade for Pure php!",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "DevNull(Ali)",
+      "email": "alishahbazpor110@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Facades\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Facades\\": "test/"
+    }
+  }
+}
