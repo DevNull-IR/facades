@@ -9,10 +9,6 @@
       "email": "alishahbazpor110@gmail.com"
     }
   ],
-  "require": {
-    "php": "<=8.0.2"
-  },
-
   "autoload": {
     "psr-4": {
       "Facades\\": "src/"
