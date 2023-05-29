@@ -1,6 +1,6 @@
 <?php
 
-namespace DevNull\Facades;
+namespace DevNull\Facades\Facades;
 
 abstract class Facade
 {
