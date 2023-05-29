@@ -11,12 +11,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "Facades\\": "src/"
+      "DevNull\\Facades\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Facades\\": "test/"
+      "DevNull\\Facades\\": "test/"
     }
   }
 }
