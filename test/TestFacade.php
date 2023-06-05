@@ -2,9 +2,8 @@
 
 namespace Facades;
 
-
 /**
- * Method for Test Class
+ * Method for Test Class.
  *
  * @method static string string()
  * @method static string abs()
